@@ -21,6 +21,7 @@ body {
     position: absolute;
     top: 0;
     left: 0;
+    
 }
 
 .paddle {
@@ -33,6 +34,7 @@ body {
 
 .player-paddle {
     left: 0;
+    top: 0;
 }
 
 .computer-paddle {
